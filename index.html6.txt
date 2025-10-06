@@ -613,7 +613,7 @@
                     </ul>
                 </div>
                 <div class="mutuo-card">
-                    <h3>👨&zwj;🎓 Mutuo Giovani Under 36</h3>
+                    <h3>👨‍🎓 Mutuo Giovani Under 36</h3>
                     <ul>
                         <li>Dedicato agli under 36</li>
                         <li>Fino all'80% del valore</li>
